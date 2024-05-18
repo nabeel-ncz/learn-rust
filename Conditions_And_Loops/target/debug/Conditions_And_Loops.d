@@ -1,0 +1,1 @@
+C:\Users\user\OneDrive\Desktop\design-planner\exp-rust\Conditions_And_Loops\target\debug\Conditions_And_Loops.exe: C:\Users\user\OneDrive\Desktop\design-planner\exp-rust\Conditions_And_Loops\src\main.rs
